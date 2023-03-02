@@ -47,10 +47,16 @@ Run the app by running **`npm start`** in the root directory
 
 Visit **http://localhost:3000** in your browser to use the app
 
+
+![Screenshot 2023-02-23 200214 (2)](https://user-images.githubusercontent.com/105020259/222578506-c6c17a6f-546c-4c35-a6b9-8fb38e35ca57.png)
+
+
+
 ## Contribution
 
 Contributions to the app are welcome! If you notice a bug or have a feature request, please open an issue. If you would like to contribute code, please fork the repository and submit a pull request.
 
 ## License
+
 
 This app is licensed under the MIT License. See the LICENSE file for more information.
